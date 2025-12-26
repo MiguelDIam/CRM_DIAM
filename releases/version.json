@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.3",
-  "url": "https://github.com/MiguelDIam/CRM_DIAM/releases/download/v1.0.3/CRM_DIAM_Instalador.exe",
+  "latest": "1.0.4",
+  "url": "https://github.com/MiguelDIam/CRM_DIAM/releases/download/v1.0.4/CRM_DIAM_Instalador.exe",
   "sha256": "2D452E67571DB2E7189C6E2841572D2A26DCCCB6165375DD37D4FD7862F32D1B",
   "notes": "esta version integra opciones de IA"
 }
